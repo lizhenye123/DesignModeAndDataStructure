@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|solutionrelative:\u54C8\u5E0C\u8868\\FHashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|solutionrelative:\u54C8\u5E0C\u8868\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|solutionrelative:\u4E8C\u53C9\u6811\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|solutionrelative:\u5806\\MinHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|solutionrelative:\u5806\\MinHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|solutionrelative:\u5806\\MaxHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|solutionrelative:\u5806\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|solutionrelative:\u56FE\\LinkMatrixGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|solutionrelative:\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|solutionrelative:\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC3066C3-56CA-4985-89B4-CBA64DD9578A}|\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5.vcxproj|solutionrelative:\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{866361BC-4971-4E8C-A4E3-A1501F3E9867}|\u54C8\u5E0C\u8868\\\u54C8\u5E0C\u8868.vcxproj|solutionrelative:\u54C8\u5E0C\u8868\\FHashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|solutionrelative:\u56FE\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|solutionrelative:\u56FE\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|solutionrelative:\u56FE\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF298E7C-39A5-4970-90BB-7002ADFCCBB7}|\u56FE\\\u56FE.vcxproj|solutionrelative:\u56FE\\LinkMatrixGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E80B66-5ABD-4FB3-B1A2-4E8CD203B883}|\u5806\\\u5806.vcxproj|solutionrelative:\u5806\\MaxHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|solutionrelative:\u4E8C\u53C9\u6811\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E4B795-5F25-401E-BAD7-02560641E597}|\u4E8C\u53C9\u6811\\\u4E8C\u53C9\u6811.vcxproj|solutionrelative:\u4E8C\u53C9\u6811\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|solutionrelative:\u5806\u6808\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\FQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\FQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\FSequenceDoubeQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\Mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|solutionrelative:\u94FE\u8868\\Mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|solutionrelative:\u94FE\u8868\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSProject\\\u54C8\u5E0C\u8868\\\u54C8\u5E0C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|solutionrelative:\u5806\u6808\\FStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9F55D88-EF3B-44FF-8C3A-26D3CAAAC728}|\u5806\u6808\\\u5806\u6808.vcxproj|solutionrelative:\u5806\u6808\\FStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|solutionrelative:\u6570\u636E\u7ED3\u6784\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C42C2B5-7989-483E-B1C6-7CB72080CA9D}|\u94FE\u8868\\\u94FE\u8868.vcxproj|solutionrelative:\u94FE\u8868\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{488FD132-27AA-4BEC-B214-8F5AD839D711}|\u961F\u5217\\\u961F\u5217.vcxproj|solutionrelative:\u961F\u5217\\FSequenceDoubeQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|solutionrelative:\u6570\u636E\u7ED3\u6784\\SequenceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774F4D70-D0BB-4E75-856F-0ABCDC4C48C0}|\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784.vcxproj|solutionrelative:\u6570\u636E\u7ED3\u6784\\SequenceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|solutionrelative:\u53CC\u7AEF\u94FE\u8868\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|solutionrelative:\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE0B33CB-08B2-4246-B1AD-F32712D65D7F}|\u53CC\u7AEF\u94FE\u8868\\\u53CC\u7AEF\u94FE\u8868.vcxproj|solutionrelative:\u53CC\u7AEF\u94FE\u8868\\DoubleList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VSIDE\\VC\\Tools\\MSVC\\14.36.32532\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinHeap.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.h",
+              "RelativeDocumentMoniker": "\u5806\\MinHeap.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.h*",
+              "RelativeToolTip": "\u5806\\MinHeap.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\Main.cpp",
+              "RelativeDocumentMoniker": "\u5806\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\Main.cpp",
+              "RelativeToolTip": "\u5806\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LinkMatrixGraph.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.h",
+              "RelativeDocumentMoniker": "\u56FE\\LinkMatrixGraph.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.h",
+              "RelativeToolTip": "\u56FE\\LinkMatrixGraph.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinkMatrixGraph.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.cpp",
+              "RelativeDocumentMoniker": "\u56FE\\LinkMatrixGraph.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\LinkMatrixGraph.cpp",
+              "RelativeToolTip": "\u56FE\\LinkMatrixGraph.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Graph.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.h",
+              "RelativeDocumentMoniker": "\u56FE\\Graph.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.h",
+              "RelativeToolTip": "\u56FE\\Graph.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FHashTable.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.h",
+              "RelativeDocumentMoniker": "\u54C8\u5E0C\u8868\\FHashTable.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.h",
+              "RelativeToolTip": "\u54C8\u5E0C\u8868\\FHashTable.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinHeap.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.cpp",
+              "RelativeDocumentMoniker": "\u5806\\MinHeap.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MinHeap.cpp",
+              "RelativeToolTip": "\u5806\\MinHeap.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaxHeap.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.cpp",
+              "RelativeDocumentMoniker": "\u5806\\MaxHeap.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.cpp",
+              "RelativeToolTip": "\u5806\\MaxHeap.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.h",
+              "RelativeDocumentMoniker": "\u4E8C\u53C9\u6811\\BinarySearchTree.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.h",
+              "RelativeToolTip": "\u4E8C\u53C9\u6811\\BinarySearchTree.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\Main.cpp",
+              "RelativeDocumentMoniker": "\u54C8\u5E0C\u8868\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\Main.cpp",
+              "RelativeToolTip": "\u54C8\u5E0C\u8868\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FHashTable.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.cpp",
+              "RelativeDocumentMoniker": "\u54C8\u5E0C\u8868\\FHashTable.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u54C8\u5E0C\u8868\\FHashTable.cpp",
+              "RelativeToolTip": "\u54C8\u5E0C\u8868\\FHashTable.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Main.cpp",
+              "RelativeDocumentMoniker": "\u56FE\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Main.cpp",
+              "RelativeToolTip": "\u56FE\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.cpp",
+              "RelativeDocumentMoniker": "\u56FE\\Graph.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u56FE\\Graph.cpp",
+              "RelativeToolTip": "\u56FE\\Graph.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAIAwwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlgorithmLibrary.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h",
+              "RelativeDocumentMoniker": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h",
+              "RelativeToolTip": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlgorithmLibrary.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp",
+              "RelativeDocumentMoniker": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp",
+              "RelativeToolTip": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\AlgorithmLibrary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp",
+              "RelativeDocumentMoniker": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp",
+              "RelativeToolTip": "\u4E94\u5927\u6838\u5FC3\u7B97\u6CD5\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\Main.cpp",
+              "RelativeDocumentMoniker": "\u4E8C\u53C9\u6811\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\Main.cpp",
+              "RelativeToolTip": "\u4E8C\u53C9\u6811\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BinarySearchTree.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.cpp",
+              "RelativeDocumentMoniker": "\u4E8C\u53C9\u6811\\BinarySearchTree.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u4E8C\u53C9\u6811\\BinarySearchTree.cpp",
+              "RelativeToolTip": "\u4E8C\u53C9\u6811\\BinarySearchTree.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaxHeap.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.h",
+              "RelativeDocumentMoniker": "\u5806\\MaxHeap.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\\MaxHeap.h",
+              "RelativeToolTip": "\u5806\\MaxHeap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u54C8\u5E0C.cpp",
+              "DocumentMoniker": "E:\\VSProject\\\u54C8\u5E0C\u8868\\\u54C8\u5E0C.cpp",
+              "ToolTip": "E:\\VSProject\\\u54C8\u5E0C\u8868\\\u54C8\u5E0C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-08-19T09:38:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\Main.cpp",
+              "RelativeDocumentMoniker": "\u5806\u6808\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\Main.cpp",
+              "RelativeToolTip": "\u5806\u6808\\Main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Main.cpp",
+              "RelativeDocumentMoniker": "\u961F\u5217\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Main.cpp",
+              "RelativeToolTip": "\u961F\u5217\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FSequenceDoubeQueue.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.h",
+              "RelativeDocumentMoniker": "\u961F\u5217\\FSequenceDoubeQueue.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.h",
+              "RelativeToolTip": "\u961F\u5217\\FSequenceDoubeQueue.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoubleList.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp",
+              "RelativeDocumentMoniker": "\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp",
+              "RelativeToolTip": "\u53CC\u7AEF\u94FE\u8868\\DoubleList.cpp",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAgwJYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FQueue.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.h",
+              "RelativeDocumentMoniker": "\u961F\u5217\\FQueue.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.h",
+              "RelativeToolTip": "\u961F\u5217\\FQueue.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FQueue.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.cpp",
+              "RelativeDocumentMoniker": "\u961F\u5217\\FQueue.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FQueue.cpp",
+              "RelativeToolTip": "\u961F\u5217\\FQueue.cpp",
+              "ViewState": "AQIAAFwAAAAAAAAAAAArwD4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Mian.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\Mian.cpp",
+              "RelativeDocumentMoniker": "\u94FE\u8868\\Mian.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\Mian.cpp",
+              "RelativeToolTip": "\u94FE\u8868\\Mian.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FStack.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.h",
+              "RelativeDocumentMoniker": "\u5806\u6808\\FStack.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.h",
+              "RelativeToolTip": "\u5806\u6808\\FStack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\Main.cpp",
+              "RelativeDocumentMoniker": "\u53CC\u7AEF\u94FE\u8868\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\Main.cpp",
+              "RelativeToolTip": "\u53CC\u7AEF\u94FE\u8868\\Main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoubleList.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.h",
+              "RelativeDocumentMoniker": "\u53CC\u7AEF\u94FE\u8868\\DoubleList.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u53CC\u7AEF\u94FE\u8868\\DoubleList.h",
+              "RelativeToolTip": "\u53CC\u7AEF\u94FE\u8868\\DoubleList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "List.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.h",
+              "RelativeDocumentMoniker": "\u94FE\u8868\\List.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.h",
+              "RelativeToolTip": "\u94FE\u8868\\List.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FStack.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.cpp",
+              "RelativeDocumentMoniker": "\u5806\u6808\\FStack.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u5806\u6808\\FStack.cpp",
+              "RelativeToolTip": "\u5806\u6808\\FStack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\Main.cpp",
+              "RelativeDocumentMoniker": "\u6570\u636E\u7ED3\u6784\\Main.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\Main.cpp",
+              "RelativeToolTip": "\u6570\u636E\u7ED3\u6784\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FSequenceDoubeQueue.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.cpp",
+              "RelativeDocumentMoniker": "\u961F\u5217\\FSequenceDoubeQueue.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\FSequenceDoubeQueue.cpp",
+              "RelativeToolTip": "\u961F\u5217\\FSequenceDoubeQueue.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "List.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.cpp",
+              "RelativeDocumentMoniker": "\u94FE\u8868\\List.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u94FE\u8868\\List.cpp",
+              "RelativeToolTip": "\u94FE\u8868\\List.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAIAwwIwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SequenceList.cpp",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.cpp",
+              "RelativeDocumentMoniker": "\u6570\u636E\u7ED3\u6784\\SequenceList.cpp",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.cpp",
+              "RelativeToolTip": "\u6570\u636E\u7ED3\u6784\\SequenceList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:30:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SequenceList.h",
+              "DocumentMoniker": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.h",
+              "RelativeDocumentMoniker": "\u6570\u636E\u7ED3\u6784\\SequenceList.h",
+              "ToolTip": "D:\\UESource\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\\u6570\u636E\u7ED3\u6784\\SequenceList.h",
+              "RelativeToolTip": "\u6570\u636E\u7ED3\u6784\\SequenceList.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T02:30:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "D:\\VSIDE\\VC\\Tools\\MSVC\\14.36.32532\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\VSIDE\\VC\\Tools\\MSVC\\14.36.32532\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "D:\\VSIDE\\VC\\Tools\\MSVC\\14.36.32532\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\VSIDE\\VC\\Tools\\MSVC\\14.36.32532\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-08-17T00:22:21.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

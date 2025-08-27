@@ -1,0 +1,3 @@
+﻿  AlgorithmLibrary.cpp
+E:\VSProject\数据结构\五大核心算法\AlgorithmLibrary.cpp(94,26): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五大核心算法.vcxproj -> E:\VSProject\数据结构\x64\Debug\五大核心算法.exe
