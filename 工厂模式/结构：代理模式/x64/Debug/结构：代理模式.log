@@ -1,0 +1,7 @@
+﻿  SharedPtr.cpp
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(16,1): error C2955: “TSharedPtr”: 使用 类 模板 需要 模板 参数列表
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(10,7): message : 参见“TSharedPtr”的声明
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(39,2): message : 查看对正在编译的 类 模板 实例化“FRefCounter<T>”的引用
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(23,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(23,1): warning C4183: “TSharedRef”: 缺少返回类型；假定为返回“int”的成员函数
+D:\VSProject\工厂模式\结构：代理模式\SharedPtr.cpp(29,1): error C2523: “FRefCounter<T>::~TSharedRef”: 析构函数 标记不匹配

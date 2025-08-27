@@ -1,0 +1,3 @@
+﻿E:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(抽象工厂.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  AbstractFactory.cpp
+  抽象工厂.vcxproj -> D:\VSProject\工厂模式\x64\Debug\创建：抽象工厂.exe

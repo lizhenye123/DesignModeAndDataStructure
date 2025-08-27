@@ -1,0 +1,6 @@
+﻿E:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(原型模式.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Prototype.cpp
+  不使用模式.cpp
+  正在生成代码...
+D:\VSProject\工厂模式\原型模式\Prototype.cpp(147): warning C4715: “ASpawner::CreateEnemy”: 不是所有的控件路径都返回值
+  原型模式.vcxproj -> D:\VSProject\工厂模式\x64\Debug\创建：原型模式.exe

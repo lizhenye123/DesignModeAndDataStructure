@@ -1,0 +1,7 @@
+﻿  Interpretor.cpp
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(42,33): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(42,33): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(42,76): error C2059: 语法错误:“)”
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(43,2): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(50,13): error C2327: “FAndExpression::IExpression”: 不是类型名称、静态或枚举数
+D:\VSProject\工厂模式\行为：解释器模式\Interpretor.cpp(51,13): error C2327: “FAndExpression::IExpression”: 不是类型名称、静态或枚举数
